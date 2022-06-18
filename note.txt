@@ -1,9 +1,0 @@
-DATA TYPES:
-str
-int
-float
-list
-tuple
-range
-dict
-set
